@@ -1,9 +1,9 @@
 === Webmaster.Net SEO Post Quality Analyzer - Quickly Find Low Quality Posts ===
 Contributors: soliver, triagis-ltd, webmaster-net 
 Donate link: http://www.webmaster.net
-Tags: seo, quality, analyze, word count, image count, paragraph count, headline count, freshness 
+Tags: seo, quality, writing, analyze, word count, image count, paragraph count, headline count, freshness 
 Requires at least: 3.0.1
-Tested up to: 3.8.1 
+Tested up to: 3.9.2
 Stable tag: 1.04   
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
@@ -54,6 +54,9 @@ For more info, check out the following articles and videos:
 * [Webmaster.Net Training Session #1 2014](hhttp://www.webmaster.net/webmaster-training-writing-quality-articles-free-wordpress-plugin-part-1).
 * [Short Video: Post Analyzer Plugin Explained](http://www.youtube.com/watch?v=D3lhASuByRI&feature=youtu.be):
  
+= Support Forums = 
+
+For user discussions and support visit our product support forums at https://forums.webmaster.net/#product-support-forums.66
 
 == Installation == 
 
