@@ -3,7 +3,7 @@ Contributors: soliver, triagis-ltd, webmaster-net
 Donate link: http://www.webmaster.net
 Tags: seo, quality, writing, analyze, word count, image count, paragraph count, headline count, freshness 
 Requires at least: 3.0.1
-Tested up to: 3.9.2
+Tested up to: 4.0.1
 Stable tag: 1.04   
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
