@@ -546,7 +546,7 @@ foreach ($pageposts as $key=>$data){
 
      </tr>
 
-<? }?>
+<?php }?>
 
 	
 
