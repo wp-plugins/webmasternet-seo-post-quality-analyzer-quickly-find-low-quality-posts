@@ -3,12 +3,15 @@
 Plugin Name: Webmaster.Net Post Quality Analyzer
 Plugin URI: http://triagis.com 
 Description: Liteweight backend solution to quickly analyze the quality of your Wordpress posts 
-Version: 1.04 
+Version: 1.05
 Author: Webmaster.Net 
 Author URI: http://webmaster.net
 Author Email: contact@webmaster.net
 */
 /*
+
+= 1.05 = 
+Fixed small bug when running WP4+
 
 = 1.04 =
 Fixed function error
